@@ -12,3 +12,7 @@
 , Network Sent: 12732037 bytes, Network Received: 128962846 bytes, uptime: 9664 seconds
 2025/03/15 09:16:34 cpu Usage: 36.01%, Memory Usage: 65.30%, Disk Usage: 2.89%
 , Network Sent: 12732255 bytes, Network Received: 128962956 bytes, uptime: 9670 seconds
+2025/03/16 08:56:19 cpu Usage: 5.56%, Memory Usage: 57.73%, Disk Usage: 2.96%
+, Network Sent: 19071313 bytes, Network Received: 58831074 bytes, Disk I/O Read: 12434056192 bytes, Disk I/O Write: 9977901056 bytes, Process CPU: 0.07%, Process Memory: 0.20%, uptime: 8291 seconds
+2025/03/16 08:58:55 cpu Usage: 10.43%, Memory Usage: 58.54%, Disk Usage: 2.96%
+, Network Sent: 19128034 bytes, Network Received: 58863651 bytes, Disk I/O Read: 12723049472 bytes, Disk I/O Write: 10053357568 bytes, Process CPU: 0.07%, Process Memory: 0.20%, uptime: 8447 seconds
